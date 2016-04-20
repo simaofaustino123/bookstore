@@ -1,0 +1,72 @@
+
+
+table, td, tr {
+    
+    border: 1px solid
+    
+}
+
+.tr1{
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+
+#pag{
+    width: 695px;
+    text-align: right;
+}
+
+#c1{
+    background-position: right;
+   
+    width: 300px;
+    height: 500px;
+    float: left;
+   
+}
+
+#c2{
+    background-position: left;
+  
+    width: 300px;
+    height: 500px;
+    float: right
+}
+
+#conteudo{
+    width: 600px;
+}
+
+#botoes{
+    float: none;
+    text-align: center;
+    
+}
+
+#col1{
+     background-position: right;
+   
+    width: 300px;
+    height: 500px;
+    float: left;
+}
+
+#col2{
+      background-position: left;
+  
+    width: 300px;
+    height: 400px;
+    float: right
+}
+
+#back{
+    text-align: right;
+    background-position: bottom;
+    
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}

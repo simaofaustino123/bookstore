@@ -1,0 +1,75 @@
+
+
+table, td, tr {
+    
+    border: 3px solid blue;
+    
+}
+
+.tr1{
+    background-color: blue;
+    font-weight: bold;
+}
+
+
+#pag{
+    width: 695px;
+    text-align: right;
+    background-color: darkgray;
+}
+
+#c1{
+    background-position: right;
+    background-color: blue;
+    width: 300px;
+    height: 500px;
+    float: left;
+   
+}
+
+#c2{
+    background-position: left;
+    background-color: chartreuse;
+    width: 300px;
+    height: 500px;
+    float: right
+}
+
+#conteudo{
+    width: 600px;
+    background-color: blanchedalmond;
+}
+
+#botoes{
+    float: none;
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+#col1{
+    background-position: right;
+    background-color: darksalmon;
+    width: 300px;
+    height: 500px;
+    float: left;
+}
+
+#col2{
+    background-position: left;
+    background-color: azure;
+    width: 300px;
+    height: 400px;
+    float: right
+}
+
+#back{
+    text-align: right;
+    background-position: bottom;
+    
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
